@@ -1,0 +1,40 @@
+
+.divs
+{
+  width: 300px;
+  height: 50px;
+  border: 1px solid gray;
+  background-color: #FFECCE;
+  margin-top: 5px;
+  text-align: center;
+  overflow: hidden;
+  padding-top: 15px;
+  box-sizing: border-box;
+}
+.language
+{
+  display: inline;
+}
+button.click
+  {
+    border: none;
+    background: none;
+    color:#379c1e;
+    cursor: pointer;
+    display: inline;
+    float: right;
+    top: 5px;
+    font-weight: 300px; 
+  }
+button.count
+  {
+    border: none;
+    background: none;
+    display: inline;
+    float: left;
+  
+  }
+  .text
+  {
+   display: inline;
+  }
